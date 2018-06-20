@@ -1,5 +1,4 @@
-<script type="text/javascript">
-  
+ 
 $(function() {
 
   var x = document.getElementsByClassName("at_offerwarndiv alert alert-danger text-center b24-roomwarn");	
@@ -13,5 +12,3 @@ $(function() {
     	}
 
 });
-
-</script>
